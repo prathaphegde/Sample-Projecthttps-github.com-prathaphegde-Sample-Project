@@ -8,9 +8,9 @@ public class SampleProject {
 		return c;
 	}
 	public static int add(int a,int b) {
-		int c ;
-		c = a + b;
-		return c;
+		int  k;
+		 k = a + b;
+		return k;
 	}
 	public static void main(String args[]) {
 		System.out.println(printHello());
